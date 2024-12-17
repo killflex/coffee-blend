@@ -28,9 +28,9 @@
                 <span class="flaticon-choices"></span>
             </div>
             <div class="media-body">
-              <h3 class="heading">Easy to Order</h3>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-            </div>
+              <h3 class="heading">Pemesanan Mudah</h3>
+              <p>Pemesanan mudah dan cepat, cukup beberapa langkah untuk mendapatkan produk yang Anda inginkan.</p>
+          </div>
           </div>      
         </div>
         <div class="col-md-4 ftco-animate">
@@ -39,19 +39,19 @@
                 <span class="flaticon-delivery-truck"></span>
             </div>
             <div class="media-body">
-              <h3 class="heading">Fastest Delivery</h3>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-            </div>
+              <h3 class="heading">Pengiriman Cepat</h3>
+              <p>Nikmati pengiriman cepat dan aman, memastikan pesanan Anda sampai tepat waktu dengan layanan kami yang efisien.</p>
+          </div>
           </div>      
         </div>
         <div class="col-md-4 ftco-animate">
           <div class="media d-block text-center block-6 services">
             <div class="icon d-flex justify-content-center align-items-center mb-5">
                 <span class="flaticon-coffee-bean"></span></div>
-            <div class="media-body">
-              <h3 class="heading">Quality Coffee</h3>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-            </div>
+                <div class="media-body">
+                  <h3 class="heading">Biji Kopi Berkualitas</h3>
+                  <p>Biji kopi pilihan yang dipilih dengan cermat, memastikan rasa yang kaya dan aroma yang menggoda di setiap cangkir.</p>
+              </div>
           </div>    
         </div>
       </div>

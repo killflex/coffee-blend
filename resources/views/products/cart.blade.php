@@ -35,9 +35,9 @@
                             <tr class="text-center">
                               <th>&nbsp;</th>
                               <th>&nbsp;</th>
-                              <th>Product</th>
-                              <th>Price</th>
-                              <th>Quantity</th>
+                              <th>Produk</th>
+                              <th>Harga</th>
+                              <th>Jumlah</th>
                               <th>Total</th>
                             </tr>
                           </thead>
@@ -99,7 +99,7 @@
                     <form method="POST" action="{{ route('prepare.checkout') }}">
                         @csrf
                         <input name="price" type="hidden" value="{{ $totalPrice }}">
-                        <input type="submit" value="Proceed to Checkout" name="submit" class="btn btn-primary py-3 px-4">
+                        <input type="submit" value="Checkout" name="submit" class="btn btn-primary py-3 px-4">
 
                     </form>
                   @else 
