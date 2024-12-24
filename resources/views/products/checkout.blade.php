@@ -48,7 +48,7 @@
                         <select name="state" id="" class="form-control">
                           <option value="France">France</option>
                           <option value="Italy">Italy</option>
-                          <option value="Philippines">Philippines</option>
+                          <option value="Indonesia">Indonesia</option>
                           <option value="South Korea">South Korea</option>
                           <option value="Hongkong">Hongkong</option>
                           <option value="Japan">Japan</option>
