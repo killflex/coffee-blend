@@ -37,7 +37,7 @@
                         sini, Anda tidak hanya menikmati cita rasa terbaik, tetapi juga merasakan kehangatan dan keramahan
                         yang kami bangun sejak pertama kali kami membuka pintu.
 
-                        Bergabunglah dengan kami, nikmati hidangan lezat, dan temukan cerita kami yang tak terhitung, karena
+                        Bergabunglah dengan kami, nikmati kelezatan hidangan, dan temukan cerita kami yang tak terhitung, karena
                         di Coffee Blend, setiap kunjungan adalah bagian dari cerita Anda.</p>
                 </div>
             </div>
