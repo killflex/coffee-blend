@@ -10,7 +10,7 @@
                     <div class="col-md-8 col-sm-12 text-center ftco-animate">
                         <span class="subheading">Welcome</span>
                         <h1 class="mb-4">The Best Coffee Testing Experience</h1>
-                        <p class="mb-4 mb-md-5">Nikmati kopi terbaik yang diseduh dari biji pilihan dengan cita rasa kaya dan aroma menggoda. Tempat sempurna bagi pecinta kopi untuk bersantai dan menikmati momen istimewa.</p>
+                        <p class="mb-4 mb-md-5">Nikmati kopi istimewa yang diseduh dari biji pilihan terbaik dengan cita rasa kaya dan aroma memikat. Tempat sempurna bagi pecinta kopi untuk bersantai dan menikmati momen istimewa.</p>
                         <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Pesan Sekarang</a> <a
                                 href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Lihat Menu</a>
                         </p>
